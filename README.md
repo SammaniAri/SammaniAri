@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sammani
 - 👀 I’m interested in React, Next.js and Vue.js
-- 🌱 I’m currently working on a project in Vue.js
+- 🌱 I’m a student of Hyper Island and I'm currently lookng for an internship in Frontend Development. 
 - 📫 You can reach me at sammani.ari@gmail.com
 <!---
 SammaniAri/SammaniAri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
