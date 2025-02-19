@@ -9,7 +9,7 @@
 
 - 👨‍💻 My favorite projects are available at [https://sammani.vercel.app/](https://sammani.vercel.app/)
 
-- 📫 How to reach me **sammani.ari@gmail.com**
+- 📫 How to reach me **sammani.ariyarathne@hyperisland.se**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sammani-ariyarathne/](https://www.linkedin.com/in/sammani-ariyarathne/)
 
